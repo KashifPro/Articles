@@ -65,6 +65,50 @@ nav .menu-btn i{
 input[type="checkbox"]{
   display: none;
 }
+form{
+  position: relative;
+  width: 500px;
+  padding: 7px;
+  margin: 32px auto auto auto;
+  border-radius: 7px;
+  text-align: center;
+}
+::placeholder {
+  color: yellow;
+  font-size: 16px;
+}
+input[type="text"]{
+  width:100%;
+  line-height: 40px;
+  color: yellow;
+  background-color: black;
+  text-indent: 10px;
+  font-size: 16px;
+}
+textarea{
+  color: yellow;
+  font-size: 16px;
+  width: 100%;
+  line-height: 80px;
+  background-color: black;
+  text-indent: 10px;
+}
+
+button{
+  color: yellow;
+  background-color: black;
+  width: 170px;
+}
+.div--count{
+display: flex;
+padding: 20px;
+font-weight: 600;
+font-size: 18px;
+justify-content: center;
+}
+
+
+
 @media (max-width: 1000px){
   nav{
     padding: 0 40px 0 50px;
