@@ -77,14 +77,14 @@ const articles = [
         title: 'Routine Work',
         content: [
             `Today Tasks`,
-            `•	Coursera`,
+            `•	Coursera `,
             `•	Youtube(Html,React,Bootstrap,Elementor,WordPress,Php,JavaScript,Jquery)`,
             `•	One Paper MCQs`,
             `•	Descriptive Test`,
             `•	English`,
             `•	E-rozgar`,
             `•	Fiverr`,
-            `•	Upwork`,
+            `•	Linkedin Course Complete`,
             `I have many websites that I have created through WordPress, especially with the help of elementor, Gutenburg, and wooCommerce plugins and features. I mostly use Astra themes for my website development. One of my websites is: https://instantweb.c1.is/`
             ,
         ]

@@ -112,13 +112,19 @@ form{
   padding: 40px;
   justify-content: left;
   overflow: hidden;
-  border: 5px groove white;
+  border: 10px groove rgb(153, 147, 147);
   font-size: 10px;
   
 }
 .styling h2{
   text-align: left;
   font-size: 18px;
+}
+.styling ol{
+  text-align: left;
+  font-weight: 700;
+  font-size: 18px;
+  color: aqua;
 }
 .styling a{
   color: aqua;
